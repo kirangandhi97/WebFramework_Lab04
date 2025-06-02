@@ -1,8 +1,4 @@
-Based on the contents of your project, here's a `README.md` file that outlines how to install, run, and build the project:
-
----
-
-# Lab 3 - HP181
+# Lab03_WEB
 
 This is a Next.js project using TypeScript, Tailwind CSS, PostgreSQL, and NextAuth for authentication.
 
